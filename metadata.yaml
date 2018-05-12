@@ -1,0 +1,21 @@
+_repo: A-Handbook-of-the-Boer-War--13-With-General-Map-of-South-Africa-and-18-Sketch-Maps-and-Plans_15699
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Boer War
+gutenberg_issued: '2005-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15699'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South African War, 1899-1902'
+- !lcc 'DT'
+title: "A Handbook of the Boer War\r\nWith General Map of South Africa and 18 Sketch\
+  \ Maps and Plans"
+url: http://www.gutenberg.org/ebooks/15699
