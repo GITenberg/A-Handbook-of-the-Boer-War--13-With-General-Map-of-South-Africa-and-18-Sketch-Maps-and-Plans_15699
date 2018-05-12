@@ -4,6 +4,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15699#A-Handbook-of-the-Boer-War--13-With-General-Map-of-South-Africa-and-18-Sketch-Maps-and-Plans
 gutenberg_bookshelf: Boer War
 gutenberg_issued: '2005-04-24'
 gutenberg_type: Text
